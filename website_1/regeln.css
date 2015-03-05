@@ -1,0 +1,48 @@
+/* ----------------- titel--------------------- */
+#titel{	
+	background: white;
+    position:fixed;
+	left: 40%;
+	top:50px;
+    
+}
+
+
+/* ----------------- field--------------------- */
+#field{	
+	background: white;
+    position:fixed;
+	top:200px;
+    left: 25%;
+    width: auto;
+
+}
+/* ----------------- eingabe--------------------- */
+#eingabe{	
+	background: white;
+    float: left;
+}
+
+/* ----------------- button--------------------- */
+#button{	
+	background: white;
+}
+
+/* ----------------- anzeige--------------------- */
+#anzeige{	
+	background: white;
+    border:solid black;
+    min-width: 300px;
+
+}
+
+
+/* ----------------- legend--------------------- */
+#legend{	
+	background: grey;
+    position:fixed;
+	left: 45%;
+	top:300px;
+    padding:10px;
+}
+
